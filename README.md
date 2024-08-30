@@ -10,15 +10,11 @@ Make sure you have Node.js and npm installed on your system.
 Installation
 Clone the repository to your local machine:
 
-bash
-Copy code
 git clone https://github.com/Manojkumar712201/Frontend
 cd Frontend
 npm install
 Start the application in development mode:
 
-bash
-Copy code
 npm start
 The app will run locally at http://localhost:3000. Any saved changes will automatically refresh the page.
 
